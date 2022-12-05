@@ -1,0 +1,8 @@
+{
+    "name": "alfa-college/phpexcel",
+    "description": "Projcet API 1.0",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.25"
+    }
+}
